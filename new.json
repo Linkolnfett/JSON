@@ -1,0 +1,9 @@
+{ 
+	"Name": {"First name": "Pavel",
+		"Last name": "Skorik",
+		"Patronymic": "Sergeevich"
+	},
+	"Age":34,
+	"Pets":1,
+	"Salary requirement":"700-900$"
+	}
