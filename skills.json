@@ -1,0 +1,22 @@
+{
+	"Hard skills":{
+			"Basic theory":"Forms and methods of QA testing, bug report,SDLC,STLC",
+			"HTTP":"Requests and responces",
+			"JSON":"Structure",
+			"XML":"Structure",
+			"Postman":"API testing, automated testing",
+			"Logs":"downloading and reading",
+			"Sniffing":"Charles and Fiddler",
+			"DevTools":"Chrome,FireFox",
+			"VPN":"usage",
+			"Mobile testing":"iOS,Android",
+			"Terminal":"Linux Terminal",
+			"Bash":"Basics",
+			"Basic SQL":"Create,Delete,Drop,Insert Into,Select,From, Where, Join",
+			"Postgres":"Usage",
+			"Redis":"Usage",
+			"Jmeter":"Load testing",
+			"Scrum":"Development",
+			"Python":"Basics"
+	}
+}
