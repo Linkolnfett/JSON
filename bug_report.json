@@ -1,1 +1,8 @@
-
+{  "id":"1",
+   "Severity":"Trivial",
+   "Environment":"Samsung S23, Android 13",
+   "Tiktok Button":"Page do not exists",
+   "Expected Result":"redirect to the right page Tiktok",
+   "Actual Result":"net::ERR_UNKNOWN_URL_SCHEME",
+   "Bug started":"Linkolnfett"
+}
