@@ -1,8 +1,8 @@
 {  "id":"1",
    "Severity":"Trivial",
-   "Environment":"Samsung S23, Android 13",
-   "Tiktok Button":"Page do not exists",
-   "Expected Result":"redirect to the right page Tiktok",
-   "Actual Result":"net::ERR_UNKNOWN_URL_SCHEME",
-   "Bug started":"Linkolnfett"
+   "Environment":"Xiaomi Redmi Note 8 Pro, Android 10",
+   "Title":"Universe card name on Universes screen is not translated on JA/ZH language",
+   "Expected Result":"Universe card name is translated",
+   "Actual Result":"Universe card name is not translated ",
+   "Bug started":"@Linkolnfett"
 }
