@@ -4,5 +4,5 @@
    "Title":"Universe card name on Universes screen is not translated on JA/ZH language",
    "Expected Result":"Universe card name is translated",
    "Actual Result":"Universe card name is not translated ",
-   "Bug started":"@Linkolnfett"
+   "Bug started":"@Linkolnfett"   
 }
